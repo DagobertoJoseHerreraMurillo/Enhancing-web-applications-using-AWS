@@ -1,4 +1,4 @@
-# Lab session #5: Enhancing your web app using additional cloud services
+# Enhancing web apps using additional cloud services
   
 * Sergio Ruiz: __sergiers@opendeusto.es__
 * Dagoberto Herrera: __dagobertoherreramurillo@live.com__
